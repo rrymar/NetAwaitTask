@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitTask", "AwaitTask\AwaitTask.csproj", "{E304DBC5-E4E9-430C-90D9-A9E921BB9129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E304DBC5-E4E9-430C-90D9-A9E921BB9129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E304DBC5-E4E9-430C-90D9-A9E921BB9129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E304DBC5-E4E9-430C-90D9-A9E921BB9129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E304DBC5-E4E9-430C-90D9-A9E921BB9129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
